@@ -1,8 +1,8 @@
 from googleapiclient import discovery
 
 def summarize_text(text):
-    project_id = 'your-project-id'
-    model_id = 'your-model-id'
+    project_id = 'fanfocusai'
+    model_id = 'gemini_15_pro'
 
     service = discovery.build('ml', 'v1')
     name = f'projects/{project_id}/models/{model_id}'

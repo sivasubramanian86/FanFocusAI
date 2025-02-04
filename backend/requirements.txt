@@ -1,5 +1,6 @@
-Flask
+flask
 pandas
 requests
 transformers
 google-cloud-videointelligence
+google-cloud-storage

@@ -1,0 +1,6 @@
+steps:
+  - name: 'gcr.io/cloud-builders/docker'
+    args: ['build', '-t', 'gcr.io/fanfocusai/fanfocusai-backend', '.']
+images: ['gcr.io/fanfocusai/fanfocusai-backend']
+timeout: '300s'
+
