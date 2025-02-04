@@ -1,0 +1,7 @@
+```diff
+--- a/dev/null
++++ b/.dockerignore
+@@ -0,0 +1,2 @@
++frontend/node_modules
++.git
+```
