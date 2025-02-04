@@ -11,10 +11,10 @@ const Dashboard = () => {
 
   return (
     <div className="dashboard">
-      <h1>FanFocusAI Dashboard</h1>
+      <h1 style={{ color: 'black' }}>FanFocusAI Dashboard</h1>
       <PreferencesForm />
       <div>
-        <h2>Your Personalized Highlights</h2>
+        <h2 style={{ color: 'black' }}>Your Personalized Highlights</h2>
         <HighlightsFeed highlights={highlights} />
       </div>
     </div>
