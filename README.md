@@ -1,3 +1,8 @@
+> [!NOTE]
+> **OFFICIAL PORTFOLIO SHOWCASE BY SIVASUBRAMANIAN**  
+> **Original Author:** [Sivasubramanian](https://github.com/sivasubramanian86)  
+> *This repository is an open portfolio showcase. Unauthorized cloning, re-hosting, or submission to hackathons/competitions under another name is strictly prohibited.*
+
 # FanFocusAI
 
 FanFocusAI is a personalized MLB highlights experience application. It allows fans to select their favorite teams and players and receive personalized audio, video, and text digests of the latest highlights.
